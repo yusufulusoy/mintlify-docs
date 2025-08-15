@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "OAuth",
+        "groups": [
+          {
+            "group": "OAuth 2.0",
+            "pages": [
+              "index",
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
